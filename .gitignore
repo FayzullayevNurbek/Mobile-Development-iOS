@@ -1,0 +1,32 @@
+
+.DS_Store
+Marble Maze/.DS_Store
+Marble Maze/AppDelegate.swift
+Marble Maze/Assets.xcassets/AccentColor.colorset/Contents.json
+Marble Maze/Assets.xcassets/AppIcon.appiconset/Contents.json
+Marble Maze/Assets.xcassets/background.imageset/background@2x.jpg
+Marble Maze/Assets.xcassets/background.imageset/Contents.json
+Marble Maze/Assets.xcassets/block.imageset/block@2x.png
+Marble Maze/Assets.xcassets/block.imageset/Contents.json
+Marble Maze/Assets.xcassets/Contents.json
+Marble Maze/Assets.xcassets/finish.imageset/Contents.json
+Marble Maze/Assets.xcassets/finish.imageset/finish@2x.png
+Marble Maze/Assets.xcassets/player.imageset/Contents.json
+Marble Maze/Assets.xcassets/player.imageset/player@2x.png
+Marble Maze/Assets.xcassets/star.imageset/Contents.json
+Marble Maze/Assets.xcassets/star.imageset/star@2x.png
+Marble Maze/Assets.xcassets/vortex.imageset/Contents.json
+Marble Maze/Assets.xcassets/vortex.imageset/vortex@2x.png
+Marble Maze/Base.lproj/LaunchScreen.storyboard
+Marble Maze/Base.lproj/Main.storyboard
+Marble Maze/GameScene.sks
+Marble Maze/GameScene.swift
+Marble Maze/GameViewController.swift
+Marble Maze/level1.txt
+Marble Maze/Project26.xcodeproj/project.pbxproj
+Marble Maze/Project26.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Marble Maze/Project26.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Marble Maze/Project26.xcodeproj/project.xcworkspace/xcuserdata/fayzullayevnurbek.xcuserdatad/UserInterfaceState.xcuserstate
+Marble Maze/Project26.xcodeproj/xcuserdata/fayzullayevnurbek.xcuserdatad/xcschemes/xcschememanagement.plist
+Ninja game/
+Project11/
